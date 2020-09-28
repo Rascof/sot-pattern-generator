@@ -19,7 +19,6 @@
   <depend>boost</depend>
   <depend>graphviz</depend>
   <depend>dynamic-graph-python</depend>
-  <depend>jrl-walkgen</depend>
   <depend>sot-core</depend>
 
   <doc_depend>doxygen</doc_depend>
